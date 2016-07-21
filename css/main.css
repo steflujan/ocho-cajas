@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+div {
+	width: 100px;
+	height:100px;
+	background-color: #6E6565;
+	border:1px solid black;
+	margin:6px;
+}
+.padre {
+	width: 360px;
+	height:120px;
+}
+.hijo {
+	display:inline-block;
+	margin:7px;
+}
+.seis {
+	display:inline-block;
+}
